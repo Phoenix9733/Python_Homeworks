@@ -1,0 +1,13 @@
+
+# esempi di chiamate a funzione e risultati testati del grade
+
+>>> import program01
+
+>>> program01.post('file01.txt', {'return'})
+{'6', '10', '2', '4'}
+
+>>> program01.post('file01.txt', {'non','Si'})
+{'9', '24', '3', '21', '6', '17', '7', '4', '15'}
+
+>>> program01.post('file01.txt', {'no'})
+set()
