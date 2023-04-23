@@ -1,6 +1,7 @@
 # Python_Homeworks
 Esercizi di vario tipo come ad esempio: la gestione di liste, dizionari, immagini o alberi utilizzando il linguaggio di programmazione Python. I programmazi sono stati realizzati per il corso di "Fondamenti di programmazione" per il corso di laurea in "Informatica" a.a. 2019/2020 presso La Sapienza.
 
+# Copyright
 Copyright 2019 -    
 
 Daniele Fasano matricola: 1815182 <fasano.1815182@studenti.uniroma1.it>
